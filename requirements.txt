@@ -1,0 +1,6 @@
+prettytable==3.11.0
+pyfiglet==1.0.2
+python_Levenshtein==0.25.1
+Requests==2.32.3
+rich==13.8.0
+tqdm==4.66.4

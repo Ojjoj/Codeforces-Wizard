@@ -1,0 +1,15 @@
++ make loading screens 
++ make the solved problem screen updates every 1 minute
++ actions and helper actions merge
++ show all ratings
++ search solved problems
++ search ratings
+- variable naming
+- method naming
++ error handling system
++ code restructuring 1
+- code restructuring 2
+
+
+in future:
+- get new problems from ratings
