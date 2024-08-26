@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6253612b-d873-4adb-ad88-6a8befc7e895" name="Default Changelist" comment="" />
+    <list default="true" id="6253612b-d873-4adb-ad88-6a8befc7e895" name="Default Changelist" comment="show all solved problems fixed">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.usernames.csv" beforeDir="false" afterPath="$PROJECT_DIR$/.usernames.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_actions.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2keTZJi8QAmrkWxJbSB9PMRg9sJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,9 +49,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.helper_actions (1)">
     <configuration name="actions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeForces Wizard" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,9 +167,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.helper_actions (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.actions" />
-        <item itemvalue="Python.helper_actions (1)" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.test" />
       </list>
@@ -156,10 +184,34 @@
       <option name="presentableId" value="Default" />
       <updated>1723643097574</updated>
     </task>
+    <task id="LOCAL-00001" summary="show all solved problems fixed">
+      <created>1724696477751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724696477751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="show all solved problems fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="show all solved problems fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1723724444106">
@@ -170,22 +222,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="335" y="60" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1724689679562" />
-    <state width="1339" height="116" key="GridCell.Tab.0.bottom" timestamp="1724691491418">
+    <state width="1339" height="224" key="GridCell.Tab.0.bottom" timestamp="1724698624299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1339" height="116" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1724691491418" />
-    <state width="1339" height="116" key="GridCell.Tab.0.center" timestamp="1724691491418">
+    <state width="1339" height="224" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1724698624299" />
+    <state width="1339" height="224" key="GridCell.Tab.0.center" timestamp="1724698624299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1339" height="116" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1724691491418" />
-    <state width="1339" height="116" key="GridCell.Tab.0.left" timestamp="1724691491418">
+    <state width="1339" height="224" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1724698624299" />
+    <state width="1339" height="224" key="GridCell.Tab.0.left" timestamp="1724698624299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1339" height="116" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1724691491418" />
-    <state width="1339" height="116" key="GridCell.Tab.0.right" timestamp="1724691491418">
+    <state width="1339" height="224" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1724698624299" />
+    <state width="1339" height="224" key="GridCell.Tab.0.right" timestamp="1724698624299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1339" height="116" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1724691491418" />
+    <state width="1339" height="224" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1724698624299" />
     <state x="0" y="0" key="SettingsEditor" timestamp="1724689681397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -194,9 +246,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="425" y="189" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1724691499543" />
-    <state x="346" y="49" width="840" height="678" key="search.everywhere.popup" timestamp="1724688124101">
+    <state x="346" y="49" width="840" height="678" key="search.everywhere.popup" timestamp="1724698181816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="840" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1724688124101" />
+    <state x="346" y="49" width="840" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1724698181816" />
   </component>
 </project>
