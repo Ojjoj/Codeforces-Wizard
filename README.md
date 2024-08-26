@@ -5,7 +5,7 @@
 ## Features
 
 - **Show User Information:** Easily display names, ratings, and the number of problems solved by any Codeforces user.
-- **Search Functionality:** Find users by their name, rating, or solved problem count.
+- **Search Functionality:** Find user's rating or solved problems count by their name.
 
 ## Getting Started
 
