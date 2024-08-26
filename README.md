@@ -15,26 +15,26 @@ To get started with Codeforces Wizard, follow these simple steps:
 
 Clone this repository to your local machine using the following command:
 
-\`\`\`bash
+```bash
 git clone https://github.com/Ojjoj/Codeforces-Wizard.git
-\`\`\`
+```
 
 ### 2. Install Requirements
 
 Navigate to the project directory and install the required packages:
 
-\`\`\`bash
+```bash
 cd Codeforces-Wizard
 pip install -r requirements.txt
-\`\`\`
+```
 
 ### 3. Run the Tool
 
 Run the \`main.py\` file to start using Codeforces Wizard:
 
-\`\`\`bash
+```bash
 python main.py
-\`\`\`
+```
 
 ## Contributing
 
