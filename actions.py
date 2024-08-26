@@ -90,7 +90,7 @@ def show_all_solved_problems(names: List[str] = None):
         user_solved_problems = get_user_solved_problems(username)
         if isinstance(user_solved_problems, str):
             print_message(user_solved_problems)
-            user_solved_problems = 0
+            continue
         user_solved_problems_row = [username, user_solved_problems]
         all_solved_problems.append(user_solved_problems_row)
         progress_bar.update(1)
