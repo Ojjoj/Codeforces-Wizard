@@ -25,7 +25,8 @@ def api_request(api_url: str, params):
 
 def get_names(filename='.usernames.csv'):
     if not os.path.exists(filename):
-        return "Error: Username file does not exist."
+        with open(filename, 'w') as file:
+            pass
     with open(filename, 'r') as file:
         names = file.read().strip()
     if not names:
@@ -134,4 +135,3 @@ def print_note(message: str):
     print(f"[cyan]{'-' * (len(message) + 6)}[/cyan]")
     print(f'[cyan]Note: {message}[/cyan]')
     print(f"[cyan]{'-' * (len(message) + 6)}[/cyan]")
-

@@ -118,8 +118,7 @@ def add_user(filename: str = '.usernames.csv'):
         return
     usernames = get_names()
     if isinstance(usernames, str):
-        print_message(usernames)
-        return
+        usernames = []
     if username in usernames:
         print_message(f"Error: Username {username} already exists.")
         return

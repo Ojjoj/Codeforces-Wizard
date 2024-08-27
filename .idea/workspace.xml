@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24af0d8f-811a-4e15-9654-0020f3fef2bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Codeforces-Wizard.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CodeForces Wizard.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.usernames.csv" beforeDir="false" afterPath="$PROJECT_DIR$/.usernames.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper_actions.py" beforeDir="false" afterPath="$PROJECT_DIR$/helper_actions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,9 +100,9 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" key="SettingsEditor" timestamp="1724778795788">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1724780118026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1724778795788" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1724780118026" />
   </component>
 </project>
