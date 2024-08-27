@@ -25,8 +25,11 @@ def api_request(api_url: str, params):
 
 def get_names(filename='.usernames.csv'):
     if not os.path.exists(filename):
-        with open(filename, 'w') as file:
-            pass
+        try:
+            with open(filename, 'w') as file:
+                pass
+        except PermissionError:
+            return "Error: File Permission denied."
     with open(filename, 'r') as file:
         names = file.read().strip()
     if not names:
